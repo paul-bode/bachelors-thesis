@@ -1,0 +1,8 @@
+# Hidden files (exclude .gitignore)
+.*
+!.gitignore
+
+# Joern
+workspace
+repos/
+cpgs/
